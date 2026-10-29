@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenBreak</string>
+    <string name="service_desc">ScreenBreak locks the phone for a break after continuous use. It only reads which app is in front.</string>
+</resources>
